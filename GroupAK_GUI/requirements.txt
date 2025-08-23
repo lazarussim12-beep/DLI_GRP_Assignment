@@ -1,0 +1,21 @@
+# Requirements for Streamlit Spam Detection Application
+
+# Core ML libraries
+tensorflow>=2.10.0,<2.15.0
+keras>=2.10.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Web framework
+streamlit>=1.25.0
+
+# Data processing
+pandas>=1.3.0
+
+# Visualization (for Streamlit)
+plotly>=5.0.0
+
+# Additional utilities
+regex>=2022.0.0
